@@ -1,0 +1,40 @@
+Wild DARUMAKA appeared!
+What will You throw?
+BALL, BAIT, ROCK, RUN
+
+SAFARI BALLS
+	Left: 30
+	
+You used SAFARI BALL!
+
+Oh, no!
+The POKéMON broke free!
+
+DARUMAKA is watching carefully!
+
+You threw some BAIT at the DARUMAKA!
+
+DARUMAKA is eating!
+
+
+You used SAFARI BALL!
+Aargh!
+Almost had it!
+
+Wild DARUMAKA fled!
+
+Aww!
+It appeared to be caught!
+
+Gotcha!
+DARUMAKA was caught!
+
+Give a nickname to the captured DARUMAKA?
+Yes No
+
+DARUMAKA's nickname?
+
+You threw a ROCK at DARUMAKA!
+DARUMAKA is angry!
+
+Got away safely!
